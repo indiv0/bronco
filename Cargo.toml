@@ -2,6 +2,9 @@
 name = "bronco"
 version = "0.1.0"
 description = "Authenticated and encrypted API tokens"
+documentation = "https://docs.rs/bronco"
+homepage = "https://github.com/indiv0/bronco"
+repository = "https://github.com/indiv0/bronco"
 authors = ["Nikita Pekin <contact@nikitapek.in>"]
 license = "GPL-3.0-or-later"
 keywords = ["cryptography", "aead", "token", "jwt", "security"]
