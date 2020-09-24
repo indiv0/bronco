@@ -33,7 +33,7 @@
 //! Add `bronco` and `sodiumoxide` to your dependencies:
 //!
 //! ```toml
-//! bronco = "0.1.0"
+//! bronco = "0.1.1"
 //! sodiumoxide = "0.2.6"
 //! ```
 //!

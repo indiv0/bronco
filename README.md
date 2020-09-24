@@ -35,7 +35,7 @@ I _do_ use it in my own project, [pasta6] knowing full well that I probably made
 Add `bronco` and `sodiumoxide` to your dependencies:
 
 ```toml
-bronco = "0.1.0"
+bronco = "0.1.1"
 sodiumoxide = "0.2.6"
 ```
 

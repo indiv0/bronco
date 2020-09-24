@@ -1,6 +1,6 @@
 [package]
 name = "bronco"
-version = "0.1.0"
+version = "0.1.1"
 description = "Authenticated and encrypted API tokens"
 documentation = "https://docs.rs/bronco"
 homepage = "https://github.com/indiv0/bronco"
