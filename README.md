@@ -82,7 +82,7 @@ Any 32 byte slice can be used as a key, but it is **highly recommended** you use
 
 ## Implementation Details
 
-This module has several significant from the Branca specification.
+This module has several significant changes from the Branca specification.
 
 First, the binary token is encoded as a string using [Base64 (URL-safe variant)][Base64], not Base62.
 
