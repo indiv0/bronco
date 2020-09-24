@@ -1,5 +1,16 @@
 # bronco
 
+<table>
+    <tr>
+        <td colspan="2">
+            <a href="https://crates.io/crates/bronco" title="Crates.io downloads"><img src="https://img.shields.io/crates/d/bronco.svg" alt="cargo-downloads-badge"></img></a>
+            <a href="https://docs.rs/bronco" title="API Docs"><img src="https://img.shields.io/badge/API-docs-blue.svg" alt="api-docs-badge"></img></a>
+            <a href="https://crates.io/crates/bronco" title="Crates.io"><img src="https://img.shields.io/crates/v/bronco.svg" alt="crates-io"></img></a>
+            <a href="#license" title="License: GPL-3.0-or-later"><img src="https://img.shields.io/crates/l/bronco.svg" alt="license-badge"></img></a>
+        </td>
+    </tr>
+</table>
+
 Bronco provides authenticated and encrypted API tokens.
 
 Based on the [Branca] specification (with slight alterations) this module provides authenticated
